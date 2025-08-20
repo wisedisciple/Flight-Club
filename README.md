@@ -1,2 +1,18 @@
 # Flight-Club
 Finds Cheap flights and then sends and sms or email
+
+add a .env file with the following
+
+SHEETY_USERNAME=""
+SHEETY_PASSWORD=""
+SHEETY_PRICES_ENDPOINT=""
+SHEETY_USERS_ENDPOINT=""
+AMADEUS_API_KEY=''
+AMADEUS_API_SECERET=''
+TWILIO_SID=''
+TWILIO_AUTH_TOKEN=''
+TWILIO_VIRTUAL_NUMBER=''
+TWILIO_VERIFIED_NUMBER=''
+SMTP_ADDRESS=""
+EMAIL=""
+SMTP_APP_PASSWORD=""
